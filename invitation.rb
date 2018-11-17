@@ -15,7 +15,7 @@ puts "who is hosting the party"
 host_name = gets.chomp 
 
 puts "Dear #{guest_name},"
-puts "You are cordially invited to the party  #{party_name} on #{date} at #{time}. Please Rsvp no later than October 30."
+puts "You are cordially invited to the party  #{party_name} on #{date} at #{time}. Please Rsvp no later than October 30.Harry Potter"
 puts "Sincerely,"
 puts #{host_name}
 # Try starting out with puts'ing a string.
